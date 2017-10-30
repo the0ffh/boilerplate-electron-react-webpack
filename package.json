@@ -1,0 +1,24 @@
+{
+  "name": "electron-webpack",
+  "version": "1.0.0",
+  "description": "description placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/the0ffh/electron-webpack.git"
+  },
+  "author": "the0ffh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the0ffh/electron-webpack/issues"
+  },
+  "homepage": "https://github.com/the0ffh/electron-webpack#readme",
+  "dependencies": {
+    "electron": "^1.7.9",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
